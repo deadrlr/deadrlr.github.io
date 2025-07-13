@@ -1,5 +1,23 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 2em;
-    background-color: rgb(61, 33, 23);
-}
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .music-player {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 500px;
+  }
+  
+  audio {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
