@@ -20,9 +20,9 @@ body {
     width: 100%;
     margin-top: 10px;
   }
-#song{
+  #song{
   text-shadow: 0 0 10px rgb(34, 255, 0);
-}
-#image{
-  border: #000000 7.5px solid;
-}
+  }
+  #image{
+    border: #000000 7.5px solid;
+  }
