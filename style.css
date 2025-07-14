@@ -8,16 +8,21 @@ body {
   }
   
   .music-player {
-    background: #fff;
-    padding: 30px;
-    border-radius: 12px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    background: #a4a4a4;
+    padding: 10px;
+    border: rgb(0, 0, 0) 5px solid;
     text-align: center;
     width: 500px;
+    border-radius: 20px;
   }
   
   audio {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 10px;
   }
-  
+#song{
+  text-shadow: 0 0 10px rgb(34, 255, 0);
+}
+#image{
+  border: #000000 7.5px solid;
+}
